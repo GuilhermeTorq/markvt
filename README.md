@@ -2,4 +2,4 @@
 
 Website created > https://markvt.co.uk/
 
-This website was made using WordPress. I managed everything from getting the domain, building it and managing the SEO.
+Currently the website is not live anymore, and I'm trying to find a way to show it here still.
